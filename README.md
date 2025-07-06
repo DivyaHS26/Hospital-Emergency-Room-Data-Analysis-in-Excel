@@ -2,7 +2,7 @@
 ## Project Objective 
 To design a dynamic and interactive Excel dashboard that enables hospital administrators to monitor key performance indicators (KPIs) such as patient inflow, department efficiency, bed occupancy, and discharge trends. This dashboard helps in quick decision-making and operational management by visualizing hospital data effectively.
 ## Dataset Used
-
+https://github.com/DivyaHS26/Hospital-Emergency-Room-Data-Analysis-in-Excel/blob/main/Hospital%20Dashboard%20Final.xlsx
 ## Questions (KPIs)
 What is the total number of patients treated?
 How do patient admissions vary month-wise?
