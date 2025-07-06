@@ -6,14 +6,14 @@ To design a dynamic and interactive Excel dashboard that enables hospital admini
 - <a href="https://github.com/DivyaHS26/Hospital-Emergency-Room-Data-Analysis-in-Excel/blob/main/Hospital%20Dashboard%20Final.xlsx">Hospital DataSet</a>
 
 ## Questions (KPIs)
-What is the total number of patients treated?
-How do patient admissions vary month-wise?
-Which departments have the highest patient counts?
-What is the gender distribution of patients?
-How do admission and discharge numbers compare?
-What is the ratio of in-patients to out-patients?
-Which departments are performing most efficiently?
-What is the monthly bed occupancy rate?
+- What is the total number of patients treated?
+- How do patient admissions vary month-wise?
+- Which departments have the highest patient counts?
+- What is the gender distribution of patients?
+- How do admission and discharge numbers compare?
+- What is the ratio of in-patients to out-patients?
+- Which departments are performing most efficiently?
+- What is the monthly bed occupancy rate?
 
 ## Project Scope
 The scope of this project is to design a dynamic and interactive Excel dashboard that provides a visual summary of hospital operations. It covers patient demographics, department-wise analysis, monthly trends, and key performance indicators such as total admissions, discharges, and occupancy. The dashboard is intended for use by hospital administrators to monitor performance, identify trends, and make informed decisions—using only Excel tools like pivot tables, slicers, charts, and conditional formatting.
